@@ -1,5 +1,11 @@
 ## Oi, Eu sou o Gian! 👋
 
+* 17 anos, apaixonado por programação 💻
+* Aluno do Ignite na Rocketseat 💜🚀
+* Cursando Técnico em Informática no IFPB 📗
+
+![cat image](https://giffiles.alphacoders.com/297/2970.gif)
+
 <div>
   <a href="https://github.com/Gian-Lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gian-Lucas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />

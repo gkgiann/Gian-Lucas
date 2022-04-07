@@ -2,7 +2,7 @@
 
 * 17 anos, apaixonado por programação 💻
 * Aluno do Ignite na Rocketseat 💜🚀
-* Técnico em Informática (IFPB) 📗
+* Estudante de Ciência da Computação (UEPB) 📚
 
 ![cat image](https://giffiles.alphacoders.com/297/2970.gif)
 

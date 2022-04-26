@@ -1,7 +1,7 @@
 ## Oi, Eu sou o Gian! 👋
 
 * 17 anos, apaixonado por programação 💻
-* Aluno do Ignite na Rocketseat 💜🚀
+* Atualmente estudando ReactJS + NextJS 🚀
 * Estudante de Ciência da Computação (UEPB) 📚
 
 ![cat image](https://giffiles.alphacoders.com/297/2970.gif)

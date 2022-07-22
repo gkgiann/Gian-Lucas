@@ -15,7 +15,7 @@
   ## Social
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gian-lucas-66299618b/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gian_lcss)
+  [![Instagram](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gian.tsx)
   
   ## Tecnologias
     

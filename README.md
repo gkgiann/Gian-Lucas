@@ -1,6 +1,6 @@
 ## Oi, Eu sou o Gian! 👋
 
-* 17 anos, apaixonado por programação 💻
+* 18 anos, apaixonado por programação 💻
 * Atualmente estudando ReactJS + NextJS 🚀
 * Estudante de Ciência da Computação (UEPB) 📚
 

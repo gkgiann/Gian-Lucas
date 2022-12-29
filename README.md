@@ -1,7 +1,7 @@
 ## Oi, Eu sou o Gian! 👋
 
 * 18 anos, apaixonado por programação 💻
-* Atualmente estudando ReactJS + NextJS 🚀
+* Desenvolvedor Web (ReactJS + NextJS + NodeJS) 🚀
 * Estudante de Ciência da Computação (UEPB) 📚
 
 ![cat image](https://giffiles.alphacoders.com/297/2970.gif)
